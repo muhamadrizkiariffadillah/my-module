@@ -1,4 +1,4 @@
-package calculate
+package operations
 
 func Addition(a, b int) int {
 	return a + b
@@ -6,4 +6,8 @@ func Addition(a, b int) int {
 
 func Subtitution(a, b int) int {
 	return a - b
+}
+
+func Multipication(a, b int) int {
+	return a * b
 }
